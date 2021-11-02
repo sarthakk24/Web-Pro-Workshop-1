@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Dosis:wght@200;300;400;500;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+
+    <link rel="stylesheet" href="/First Assignment/CSS/Styles.css" />
+    <script defer type="module" src="/First Assignment/JS/script.js"></script>
+    <title>Calculator</title>
+  </head>
+  <body>
+    <div class="calculator">
+      <p class="calculator_heading">Calculator</p>
+      <div class="calculator_form_div">
+        <form class="calculator_form">
+          <ul>
+            <li>
+              <label for="Num1" class="calculator_input_label">Num1 : </label>
+              <input type="text" id="Num1" class="calculator_input_text" />
+            </li>
+            <li>
+              <label for="Num2" class="calculator_input_label">Num2 : </label>
+              <input type="text" id="Num2" class="calculator_input_text" />
+            </li>
+            <li class="operations">
+              <label for="operations" class="calculator_input_label"
+                >Operations</label
+              >
+              <select name="operations" class="operations-list">
+                <option value="sum">SUMATION (+)</option>
+                <option value="sub">SUBTRACTION (-)</option>
+                <option value="mul">MULTIPLICATION (*)</option>
+                <option value="div">DIVISION (/)</option>
+              </select>
+            </li>
+            <li>
+              <button type="submit" class="calculator_submit_button">
+                SUBMIT
+              </button>
+            </li>
+          </ul>
+        </form>
+      </div>
+      <div class="operation_result"></div>
+      <br />
+      <br />
+      <br />
+      <h1>Made By Sarthak Sachdeva</h1>
+    </div>
+  </body>
+</html>
