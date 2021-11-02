@@ -6,7 +6,9 @@
 
 ---
 
-## **_Main Things Used In Calculator Assignment_**
+#### **_Please do clone and run the wesite in your computer ! Made several changes_**
+
+## **_Main Skills Used In Calculator Assignment_**
 
 ### HTML, CSS(Flex), JS(Object Oriented)
 
