@@ -16,7 +16,8 @@
 
 [Github](https://github.com/sarthakk24)
 [Instagram](https://www.instagram.com/sarthakk24/)
-[Discord](shockwave#7204)
+[Polywork](https://www.polywork.com/sarthakk24)
+[linkedin](https://www.linkedin.com/in/sarthak-sachdeva-748b17222/)
 
 ---
 
