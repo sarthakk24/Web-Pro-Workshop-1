@@ -2,7 +2,7 @@
 
 ## **_Intro_**
 
-### I am Sarthak Sachdeva this repository is for all work done in wev pro workshop by me and my team
+### I am Sarthak Sachdeva this repository branch is for mini-project-1(portfolio website)
 
 ---
 
